@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arslan</h1>
+<h6 align="center">Passionate Full Stack Developer from Pakistan specializing in web app development. Open to collaboration, creative ideas, and continuous learning.</h6>
 
 🌟 Welcome to my GitHub profile!  
-🚀 <h6 align="center">Passionate Full Stack Developer from Pakistan specializing in web app development. Open to collaboration, creative ideas, and continuous learning.</h6>
 
 ## About Me
 - 🔭 I’m currently working on [Project or Area of Interest].
