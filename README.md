@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Arslan! 👋
 
-<!--
-**MuhammadArslanMurtaza/MuhammadArslanMurtaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Welcome to my GitHub profile!  
+🚀 I'm a [Your Role/Profession], passionate about [Your Interests].
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I’m currently working on [Project or Area of Interest].
+- 🌱 I’m learning [New Skill or Technology].
+- 💬 Ask me about [Topics you're knowledgeable about].
+- 📫 How to reach me: [Your Contact Info].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/muhammad-arslan-programmer)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange)](https://myportfolio-six-azure.vercel.app)
