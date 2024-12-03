@@ -1,13 +1,14 @@
-# Hi there, I'm Arslan! 👋
+<h1 align="center">Hi 👋, I'm Arslan</h1>
 
 🌟 Welcome to my GitHub profile!  
-🚀 I'm a [Your Role/Profession], passionate about [Your Interests].
+🚀 <h6 align="center">Passionate Full Stack Developer from Pakistan specializing in web app development. Open to collaboration, creative ideas, and continuous learning.</h6>
 
 ## About Me
 - 🔭 I’m currently working on [Project or Area of Interest].
+- 🤝 I’m open to collaborating on Website Projects and Microservices.
 - 🌱 I’m learning [New Skill or Technology].
-- 💬 Ask me about [Topics you're knowledgeable about].
-- 📫 How to reach me: [Your Contact Info].
+- 💬 Ask me about **SPA, Shopify Apps Development, Laravel, Databases, DevOps.**.
+- 📫 How to reach me: **programmer41071@gmail.com**.
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/muhammad-arslan-programmer)
