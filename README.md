@@ -4,10 +4,10 @@
 🌟 Welcome to my GitHub profile!  
 
 ## About Me
-- 🔭 I’m currently working on [Project or Area of Interest].
-- 🤝 I’m open to collaborating on Website Projects and Microservices.
-- 🌱 I’m learning [New Skill or Technology].
-- 💬 Ask me about **SPA, Shopify Apps Development, Laravel, Databases, DevOps.**.
+- 🔭 I’m currently working on Website and Shopify app development using Laravel, ReactJS, and VueJS dev.
+- 🤝 I’m open to collaborating on Websites and Microservices developments.
+- 🌱 I’m constantly learning New Skills or Technology.
+- 💬 Ask me about **SPA, Shopify Apps and Websites Development, Databases, DevOps.**.
 - 📫 How to reach me: **programmer41071@gmail.com**.
 
 ## Connect with Me
